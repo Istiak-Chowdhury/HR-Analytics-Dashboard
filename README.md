@@ -2,6 +2,8 @@
 
 Welcome to the **HR Analytics Dashboard** project! This Power BI dashboard provides a comprehensive overview of key HR metrics to support data-driven decision-making in workforce management.
 
+---
+
 ## 🧠 Project Overview
 
 This dashboard aims to provide insights into:
@@ -12,6 +14,8 @@ This dashboard aims to provide insights into:
 - Job satisfaction
 - Education and age distribution
 
+---
+
 ## 📌 Key Features
 
 ### ✅ KPIs & Metrics:
@@ -19,7 +23,14 @@ This dashboard aims to provide insights into:
 - **Active Employees:** 1,233  
 - **Attrition Rate:** 16.1%  
 - **Attrition Count:** 237  
-- **Average Age:** 37  
+- **Average Age:** 37
+
+---
+
+## 🔗 Live Demo
+📍 [Click here]https://app.powerbi.com/view?r=eyJrIjoiODQ5MDk5NmEtY2M5Yi00NmM2LTgyNGQtMGQ3M2ZkOGIyMjdjIiwidCI6ImU3YWUzZWIzLTQwN2QtNDRhNy1hNmY3LWYzOWY1YTExZDMzNyIsImMiOjEwfQ%3D%3D&pageName=dc603bf6069784939f32) to view the Live Power BI Dashboard
+
+---
 
 ### 📊 Visualizations:
 1. **Active Employees & Attrition by Department:** Breakdown across R&D, Sales, and HR.
@@ -30,16 +41,22 @@ This dashboard aims to provide insights into:
 6. **Age & Gender Band Distribution:** Majority between ages 25-44, fairly gender-balanced.
 7. **Job Satisfaction Ratings:** Ratings across 9 job roles; insights into employee morale.
 
+---
+
 ## 🛠 Tools Used
 - **Power BI**: For dashboard creation and visualization
 - **Excel / CSV**: As a source for HR data (assumed)
 - **Data Transformation**: Power Query Editor (assumed)
+
+---
 
 ## 🚀 How to Use
 1. Open the `.pbix` file in Power BI Desktop.
 2. Ensure data source paths are correct.
 3. Refresh data if needed.
 4. Interact with visuals and slicers to filter by gender, marital status, and job roles.
+
+---
 
 ## 📈 Insights Derived
 - High attrition in Sales (92) and R&D (133) suggests a need for better retention strategies.
