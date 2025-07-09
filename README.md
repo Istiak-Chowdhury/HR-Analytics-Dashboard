@@ -16,6 +16,11 @@ This dashboard aims to provide insights into:
 
 ---
 
+## 🔗 Live Demo
+📍 [HR Data Analysis](https://app.powerbi.com/view?r=eyJrIjoiODQ5MDk5NmEtY2M5Yi00NmM2LTgyNGQtMGQ3M2ZkOGIyMjdjIiwidCI6ImU3YWUzZWIzLTQwN2QtNDRhNy1hNmY3LWYzOWY1YTExZDMzNyIsImMiOjEwfQ%3D%3D&pageName=dc603bf6069784939f32) Live Power BI Dashboard
+
+---
+
 ## 📌 Key Features
 
 ### ✅ KPIs & Metrics:
@@ -24,11 +29,6 @@ This dashboard aims to provide insights into:
 - **Attrition Rate:** 16.1%  
 - **Attrition Count:** 237  
 - **Average Age:** 37
-
----
-
-## 🔗 Live Demo
-📍 [Click here](https://app.powerbi.com/view?r=eyJrIjoiODQ5MDk5NmEtY2M5Yi00NmM2LTgyNGQtMGQ3M2ZkOGIyMjdjIiwidCI6ImU3YWUzZWIzLTQwN2QtNDRhNy1hNmY3LWYzOWY1YTExZDMzNyIsImMiOjEwfQ%3D%3D&pageName=dc603bf6069784939f32) to view the Live Power BI Dashboard
 
 ---
 
