@@ -28,7 +28,7 @@ This dashboard aims to provide insights into:
 ---
 
 ## 🔗 Live Demo
-📍 [Click here]https://app.powerbi.com/view?r=eyJrIjoiODQ5MDk5NmEtY2M5Yi00NmM2LTgyNGQtMGQ3M2ZkOGIyMjdjIiwidCI6ImU3YWUzZWIzLTQwN2QtNDRhNy1hNmY3LWYzOWY1YTExZDMzNyIsImMiOjEwfQ%3D%3D&pageName=dc603bf6069784939f32) to view the Live Power BI Dashboard
+📍 [Click here](https://app.powerbi.com/view?r=eyJrIjoiODQ5MDk5NmEtY2M5Yi00NmM2LTgyNGQtMGQ3M2ZkOGIyMjdjIiwidCI6ImU3YWUzZWIzLTQwN2QtNDRhNy1hNmY3LWYzOWY1YTExZDMzNyIsImMiOjEwfQ%3D%3D&pageName=dc603bf6069784939f32) to view the Live Power BI Dashboard
 
 ---
 
